@@ -1,0 +1,15 @@
+C:\Users\omgst\Documents\Visual Studio 2017\Projects\WpfWebService\WpfWebService\bin\Debug\WpfWebService.exe.config
+C:\Users\omgst\Documents\Visual Studio 2017\Projects\WpfWebService\WpfWebService\bin\Debug\WpfWebService.exe
+C:\Users\omgst\Documents\Visual Studio 2017\Projects\WpfWebService\WpfWebService\bin\Debug\WpfWebService.pdb
+C:\Users\omgst\Documents\Visual Studio 2017\Projects\WpfWebService\WpfWebService\obj\Debug\WpfWebService.csprojResolveAssemblyReference.cache
+C:\Users\omgst\Documents\Visual Studio 2017\Projects\WpfWebService\WpfWebService\obj\Debug\MainWindow.g.cs
+C:\Users\omgst\Documents\Visual Studio 2017\Projects\WpfWebService\WpfWebService\obj\Debug\App.g.cs
+C:\Users\omgst\Documents\Visual Studio 2017\Projects\WpfWebService\WpfWebService\obj\Debug\WpfWebService_MarkupCompile.cache
+C:\Users\omgst\Documents\Visual Studio 2017\Projects\WpfWebService\WpfWebService\obj\Debug\WpfWebService_MarkupCompile.lref
+C:\Users\omgst\Documents\Visual Studio 2017\Projects\WpfWebService\WpfWebService\obj\Debug\MainWindow.baml
+C:\Users\omgst\Documents\Visual Studio 2017\Projects\WpfWebService\WpfWebService\obj\Debug\WpfWebService.g.resources
+C:\Users\omgst\Documents\Visual Studio 2017\Projects\WpfWebService\WpfWebService\obj\Debug\WpfWebService.Properties.Resources.resources
+C:\Users\omgst\Documents\Visual Studio 2017\Projects\WpfWebService\WpfWebService\obj\Debug\WpfWebService.csproj.GenerateResource.Cache
+C:\Users\omgst\Documents\Visual Studio 2017\Projects\WpfWebService\WpfWebService\obj\Debug\WpfWebService.csproj.CoreCompileInputs.cache
+C:\Users\omgst\Documents\Visual Studio 2017\Projects\WpfWebService\WpfWebService\obj\Debug\WpfWebService.exe
+C:\Users\omgst\Documents\Visual Studio 2017\Projects\WpfWebService\WpfWebService\obj\Debug\WpfWebService.pdb
