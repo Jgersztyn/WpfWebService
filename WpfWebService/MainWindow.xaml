@@ -8,11 +8,13 @@
         Title="Tracking Info" Height="300" Width="250">
     <Grid>
         <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="72*"/>
+            <ColumnDefinition Width="54*"/>
+            <ColumnDefinition Width="11*"/>
+            <ColumnDefinition Width="7*"/>
             <ColumnDefinition Width="49*"/>
         </Grid.ColumnDefinitions>
-        <Button Content="Button" HorizontalAlignment="Left" Height="30" Margin="10,10,0,0" VerticalAlignment="Top" Width="100"/>
-        <DataGrid HorizontalAlignment="Left" Height="200" Margin="10,51,0,0" VerticalAlignment="Top" Width="150" Grid.ColumnSpan="2"/>
+        <Button Content="Display Data" HorizontalAlignment="Left" Height="30" Margin="10,10,0,0" VerticalAlignment="Top" Width="100" Cursor="None" Grid.ColumnSpan="2" Click="Button_Click" FontSize="16"/>
+        <DataGrid HorizontalAlignment="Left" Height="200" Margin="10,51,0,0" VerticalAlignment="Top" Width="150" Grid.ColumnSpan="4"/>
 
     </Grid>
 </Window>
