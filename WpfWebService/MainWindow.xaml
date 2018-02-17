@@ -14,7 +14,10 @@
             <ColumnDefinition Width="49*"/>
         </Grid.ColumnDefinitions>
         <Button Content="Display Data" HorizontalAlignment="Left" Height="30" Margin="10,10,0,0" VerticalAlignment="Top" Width="100" Cursor="None" Grid.ColumnSpan="2" Click="Button_Click" FontSize="16"/>
-        <DataGrid HorizontalAlignment="Left" Height="200" Margin="10,51,0,0" VerticalAlignment="Top" Width="150" Grid.ColumnSpan="4"/>
-
+        <DataGrid Name="TrackingDataGridView" HorizontalAlignment="Left" Height="200" Margin="10,51,0,0" VerticalAlignment="Top" Width="150" Grid.ColumnSpan="4">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header = "Tracking Number"/>
+            </DataGrid.Columns>
+        </DataGrid>
     </Grid>
 </Window>
