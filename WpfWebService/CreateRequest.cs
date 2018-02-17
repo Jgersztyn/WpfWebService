@@ -15,8 +15,8 @@ namespace WpfWebService
 
         public void Execute()
         {
-            DateTime startTime = new DateTime(2013, 8, 30);
-            DateTime endTime = new DateTime(2017, 5, 20);
+            var startTime = new DateTime(2013, 8, 30);
+            var endTime = new DateTime(2017, 5, 20);
 
             using (GetOrders.orders_internalSoapClient proxy = new GetOrders.orders_internalSoapClient())
             {
